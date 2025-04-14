@@ -8,4 +8,4 @@ O bot cria um alerta dentro do grupo do Telegram de forma personalizada com deta
 
 ## Autor
 
--[Gabriel-Torres](https://github.com/gabTorres2003)
+[Gabriel-Torres](https://github.com/gabTorres2003)
