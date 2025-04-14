@@ -6,9 +6,8 @@ from datetime import datetime
 
 # Telegram 
 today = datetime.now().strftime("%Y-%m-%d")
-token = '6064984823:AAFI0KY0MlqwUpVPtz-tCaCPBj4LmNFC5Ys'  
-# token do bot Telegram
-chat_id = '-1001933260897'  # chat_id do grupo 
+token =  # token do bot Telegram
+chat_id = # chat_id do grupo 
 bot = telebot.TeleBot(token)
 jogos_enviados = []
 
